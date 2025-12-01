@@ -1,29 +1,28 @@
-# TÍTULO DO PROJETO
+# Misteira Inteligente
 
-`CAMPUS/UNIDADE`
+PUC - Coração Eucarístico
 
-`CURSO`
+Engenharia da Computação
 
-`SEMESTRE`
+1º semestre
 
-`DISCIPLINA`
+Laboratório de Introdução à Engenharia da Computação
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bruno Alex Cunha
+* Guilherme Santos Pedrosa
+* Marcos Decaux
+* Rafael da Rocha Peixoto e couto
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marta Noronha
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto "Misteira Inteligente" têm a proposta de, utilizando o microprocessador ESP32, contruir uma misteira automatizada, em que o usuário pode escolher o preparo de seu pão. Para além o hardware, o projeto conta com o código escrito em C++ para arduíno, e uma interface de frontend, em que o usuário pode controlar em seu smartphone, de forma lúdica, o comportamento do hadware.
 
 # Código (do arduino ou esp32)
 
