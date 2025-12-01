@@ -13,7 +13,7 @@ Os materiais utilizados no projeto foram:
 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+O projeto foi desenvolvido durante a disciplina de LIEC. Em um primeiro momento, os integrantes do grupo refletiram sobre um projeto que, além de utilizar os assuntos trabalhados na disciplina, tivesse utilidades práticas cotidianas. A partir daí, chegou-se à definição da "Misteira Inteligente", e definimos qual seria a proposta da misteira, em relação ao seu funcionamento e funcionalidades. Por fim, separamos as etapas de desenvolvimento, enchergando as principais etapas: Desenvolvimento do Frontend (app inventor), Desenvolvimento do Código do ESP32 (C++), Montagem dos Componentes do circuito e os testes do sistema.
 
 ## Desenvolvimento do Aplicativo
 
