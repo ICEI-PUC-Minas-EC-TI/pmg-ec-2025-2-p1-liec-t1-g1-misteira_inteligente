@@ -3,6 +3,13 @@
 
 Os materiais utilizados no projeto foram:
 - Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+- Esp32.
+- Protoboard.
+- Sensor de fumaça, sensor de distância, Sensor de temperatura da Misteira.
+- Relé.
+- 3 Resisteros.
+- Diodo.
+- Transitor.
 
 # Desenvolvimento
 
