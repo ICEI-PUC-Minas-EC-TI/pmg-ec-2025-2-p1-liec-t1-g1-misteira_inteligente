@@ -19,7 +19,7 @@ O projeto foi desenvolvido durante a disciplina de LIEC. Em um primeiro momento,
 
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
+O grupo desenvolveu a interface focando para que fosse amigável ao usuário, criativa e instintiva. Utilizando o app inventor, a proposta é que o usuário seja mantido informado das condições de seu pão, podendo controlar o preparo, e seja avisado caso se esqueça que a misteira esteja ativa, ou dimensione mal o tempo. Por fim, a intenção do projeto é otimizar o tempo do usuário, durante a execução de uma tarefa cotidiana simples.
 
 ### Código
 
