@@ -1,7 +1,5 @@
 # Introdução
 
-Introdução
-
 Este projeto apresenta o desenvolvimento de uma Misteira Inteligente, criada durante a disciplina de LIEC, com o objetivo de integrar conceitos de lógica de programação e eletrônica básica. A proposta surgiu da necessidade de tornar o preparo de alimentos simples – como o misto quente – mais seguro, prático e automatizado. O sistema utiliza sensores e um módulo ESP32 para monitorar a temperatura, a presença do pão e possíveis riscos (como fumaça), além de permitir o controle direto por aplicativo. Trata-se de um projeto voltado para demonstrar, de forma aplicada, o uso de programação e hardware na resolução de problemas reais do cotidiano.
 
 ## Problema
