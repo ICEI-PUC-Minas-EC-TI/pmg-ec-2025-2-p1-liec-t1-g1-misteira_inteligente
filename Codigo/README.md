@@ -2,22 +2,27 @@
 
 # Projeto de Controle de Misteira Inteligente - ESP32
 
-Este projeto controla o aquecimento e segurança de uma misteira usando um ESP32, sensor de temperatura DS18B20, sensor de proximidade indutivo LJ12A3-4-Z/BX e relé.
+Este repositório contém o código utilizado no ESP32 para controlar a Misteira Inteligente, projeto acadêmico desenvolvido na disciplina de LIEC. O sistema permite ligar/desligar a misteira, controlar o tempo de cozimento e enviar alertas de fumaça via Bluetooth.
 
 ## Funções principais
-- 3 modos de preparo: mal passado, ao ponto e bem passado.
-- Monitoramento de temperatura em tempo real.
-- Detecção de tampa aberta.
-- Desligamento automático por segurança.
-- Simulação no Tinkercad usando potenciômetro e botão.
 
-## Componentes simulados
-- Potenciômetro → temperatura
-- Push button → tampa aberta
-- LED → relé
+  ## Comunicação Bluetooth
+  _Utiliza a biblioteca BluetoothSerial.h_
+  _Recebe comandos e envia mensagens para o aplicativo App Inventor_
+
+  ## Leitura do Sensor de Fumaça
+  _Lê valores analógicos do sensor (A0)_
+  _Envia alerta via Bluetooth quando o valor ultrapassa o limiar configurado (LIMIAR_FUMACA = 350)_
+
+  ## Controle do Relé
+  _Liga ou desliga a resistência da misteira_
+  _Define estados: RELE_LIGA = LOW / RELE_DESLIGA = HIGH_
+  _Evita acionamentos incorretos e garante desligamento seguro_
+
+  ## Temporizador de Cozimento
 
 ## Código
-Arquivo principal: `controleMisteira.ino`
+Arquivo principal: `codigoEsp32.ino`
 
 
 Mantenha neste diretório todo o código do Arduino ou ESP. Para isso, salve aqui o arquivo .ino.
