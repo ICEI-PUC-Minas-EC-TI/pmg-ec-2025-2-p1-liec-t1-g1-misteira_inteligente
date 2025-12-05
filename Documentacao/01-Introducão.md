@@ -6,13 +6,13 @@ Este projeto apresenta o desenvolvimento de uma Misteira Inteligente, criada dur
 
 O problema identificado está relacionado ao uso manual e pouco seguro de misteiras tradicionais. Muitos usuários esquecem o aparelho ligado, superdimensionam o tempo de preparo ou deixam o pão queimar por falta de acompanhamento. Isso pode gerar desperdício, desconforto e até risco de acidentes domésticos. A aplicação será utilizada em um ambiente cotidiano, com uma misteira conectada via ESP32 e sensores instalados em protoboard, integrados a um aplicativo desenvolvido no App Inventor.
 
-## Objetivos
+# Objetivos
 
-# Objetivo Geral
+## Objetivo Geral
 
 Desenvolver uma misteira automatizada capaz de monitorar e controlar o preparo de alimentos, oferecendo maior segurança e praticidade ao usuário.
 
-# Objetivos Específicos
+## Objetivos Específicos
 
 - Implementar sensores de temperatura, distância e fumaça para garantir monitoramento contínuo do aparelho.
 
@@ -20,6 +20,6 @@ Desenvolver uma misteira automatizada capaz de monitorar e controlar o preparo d
 
 - Programar o ESP32 em C++ para interpretar os dados dos sensores e acionar o relé de forma automática quando necessário.
  
-## Público-Alvo
+# Público-Alvo
 
 O projeto se destina a usuários que utilizam misteiras no dia a dia e buscam maior controle e segurança durante o preparo de alimentos. O público inclui desde jovens e adultos com conhecimento básico em tecnologia até pessoas com pouca familiaridade com eletrônica, mas que podem utilizar a interface intuitiva do aplicativo. O sistema foi pensado para ser acessível, fácil de usar e útil em ambientes domésticos.
