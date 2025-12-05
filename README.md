@@ -19,6 +19,8 @@ Laboratório de Introdução à Engenharia da Computação
 ## Orientador
 
 * Marta Noronha
+* Naísses Zóia Lima
+* Sandro Jerônimo de Almeida
 
 ## Resumo
 
